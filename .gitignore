@@ -1,0 +1,55 @@
+# Raw Fitbit data
+Fitabase Data 3.12.16-4.11.16/
+Fitabase Data 4.12.16-5.12.16/
+data_raw/
+data_clean/
+
+# Large archives and datasets
+*.zip
+*.csv
+
+# Generated project artifacts
+figures/*.png
+figures/*.pdf
+outputs/*
+!figures/.gitkeep
+!outputs/.gitkeep
+tmp/
+build/
+submission/
+
+# Course materials kept locally, not packaged with source code
+Project Report Guidance.pdf
+
+# Generated project artifacts
+figures/*.png
+figures/*.pdf
+outputs/*
+!figures/.gitkeep
+!outputs/.gitkeep
+tmp/
+
+# Course materials kept locally, not packaged with source code
+Project Report Guidance.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Windows / macOS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Word temporary files
+~$*
