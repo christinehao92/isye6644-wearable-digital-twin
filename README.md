@@ -6,7 +6,7 @@ Topic #1 - Digital Twins
 
 ## Team members
 
-- YueHao
+- Yue Hao
 - Zikun Li
 
 ## Project objective
